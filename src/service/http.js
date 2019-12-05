@@ -8,7 +8,7 @@ import store from '../store/index'
  
 // 环境的切换
 
-axios.defaults.baseURL = 'http://www.wdstorm.com';
+axios.defaults.baseURL = 'https://www.huibojob.com';
  
 // 请求超时时间
 axios.defaults.timeout = 10000;

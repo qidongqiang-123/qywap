@@ -82,5 +82,5 @@ export default{
 </script>
 
 <style scoped>
-	@import "https://m.huibojob.com/static/css/wap/job/job.css"; 
-	@import "https://m.huibojob.com/static/css/wap/login/index.css";</style>
+	@import "../../static/css/job.css"; 
+	@import "../../static/css/index.css";</style>
