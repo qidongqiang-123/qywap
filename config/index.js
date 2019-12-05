@@ -12,7 +12,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
            '/api': {
-               target: 'https://www.huibojob.com/api/',//后端接口地址
+               target: 'https://www.huibojob.com',//后端接口地址
                changeOrigin: true,//是否允许跨越
            }
         },
